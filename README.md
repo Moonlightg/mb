@@ -1,8 +1,9 @@
 # 个人信息
 
  - 郭嘉宝/男/1992 
- - 专科/软件开发专业 
+ - 大专/软件开发专业 
  - 工作年限：4.5年
+ - 手机号码：13112224413
  - 技术博客：http://www.moonlight313.cn
  - Github：https://github.com/Moonlightg
 
