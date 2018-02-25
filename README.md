@@ -21,9 +21,13 @@
 根据业务需求规划移动端web app 的UI界面设计，交互设计，并使用html5，css3，less编写响应式前端UI界面，icon的设计与管理。公司项目主要使用vue.js，webpack, node.js，java等技术。根据业务编写可复用的模块化vue组件，优化用户体验，pc端的后台前端界面的优化，重构等工作。
 ### 相关地址
 http://www.visfarm.com
+
 http://scmp.visfarm.com
+
 http://farmtest.visfarm.com
+
 http://buy.visfarm.com
+
 http://buy.visfarm.com/web/order/#!/
 
  
@@ -32,10 +36,14 @@ http://buy.visfarm.com/web/order/#!/
 ### 主要工作 
 利用HTML、CSS等前端技术开发公司官网，编写公司推广业务HTML 页面，重构公司业务后台界面，优化操作逻辑以及界面，规划新业务移动端网站的整体架构原型，根据业务运作流程与设计师沟通完成前端页面的设计，并利用HTML5,css3技术完成整个响应式网站的前端编码，包括静态页面以及javascript动态交互，维护公司现有业务网站的正常运转，更新。
 ### 项目地址
-公众号“九只猴” 
+公众号“九只猴”
+
 http://www.9zhihou.cn
-http://www.lingdiantec.com                
+
+http://www.lingdiantec.com  
+
 http://www.23meifu.com
+
 http://www.fola.hk
 
 
