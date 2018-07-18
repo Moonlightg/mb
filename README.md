@@ -1,4 +1,4 @@
-# 个人信息  本人已入职，因为工作太忙，没时间写东西
+# wo shen me dou mei you liu xia ........
 
 
 
